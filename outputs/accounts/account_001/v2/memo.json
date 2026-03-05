@@ -1,0 +1,21 @@
+{
+  "account_id": "account_001",
+  "company_name": "ABC Fire Protection",
+  "business_hours": {
+    "days": ["Mon","Tue","Wed","Thu","Fri"],
+    "start": "07:00",
+    "end": "18:00",
+    "timezone": "EST"
+  },
+  "services_supported": [
+    "fire alarms",
+    "sprinkler inspection",
+    "extinguisher service",
+    "emergency repair"
+  ],
+  "emergency_definition": [
+    "sprinkler leak",
+    "fire alarm triggered"
+  ],
+  "notes": "Updated after onboarding call"
+}
